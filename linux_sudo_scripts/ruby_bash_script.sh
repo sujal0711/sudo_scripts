@@ -1,0 +1,1 @@
+sudo ruby -e 'exec "/bin/bash"'

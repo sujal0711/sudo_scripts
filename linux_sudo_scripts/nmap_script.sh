@@ -1,0 +1,2 @@
+sudo nmap --interactive
+!sh

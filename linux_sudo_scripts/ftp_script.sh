@@ -1,0 +1,2 @@
+sudo ftp
+!/bin/sh

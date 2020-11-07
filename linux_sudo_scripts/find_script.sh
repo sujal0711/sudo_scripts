@@ -1,0 +1,1 @@
+sudo find . -exec /bin/sh \; -quit

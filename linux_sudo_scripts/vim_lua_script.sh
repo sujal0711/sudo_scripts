@@ -1,0 +1,1 @@
+sudo vim -c ':lua os.execute("reset; exec sh")'
