@@ -1,0 +1,1 @@
+sudo -u PAGER='sh -c "exec sh 0<&1"' git -p help
