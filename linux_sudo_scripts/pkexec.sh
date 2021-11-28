@@ -1,0 +1,1 @@
+sudo pkexec /bin/bash
